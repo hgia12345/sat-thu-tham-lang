@@ -1,2 +1,1 @@
-# sat-thu-tham-lang
-loadstring(game: HttpGet("HTTPS://pastefy.app /MANSEU9k/raw?part=satthuthamlang.lua"))()
+loadstring(game:HttpGet("https://rawscripts.net/raw/Silent-Strike-Cool-Script-Invisible-Slayer-Rounds-81109"))()
